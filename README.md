@@ -1,4 +1,4 @@
-# packet-sniffer-co
+# Packet sniffer project
 A Python packet sniffer built with Scapy that captures and analyzes network traffic ethically, with built-in redaction of sensitive fields.
 
 
