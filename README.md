@@ -1,5 +1,5 @@
 # packet-sniffer-co
-A Python packet sniffer built with Scapy that captures and analyzes network traffic ethically — with built-in redaction of sensitive fields.
+A Python packet sniffer built with Scapy that captures and analyzes network traffic ethically, with built-in redaction of sensitive fields.
 
 
 Copilot was used for:
